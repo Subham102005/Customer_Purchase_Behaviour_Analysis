@@ -129,29 +129,6 @@ Performed business-focused queries to answer key questions:
 * PostgreSQL / MySQL / SQL Server
 * Power BI Desktop
 
-### Steps
-
-1. Clone the repository:
-
-   ```
-   git clone <your-repo-link>
-   ```
-2. Navigate to the project folder:
-
-   ```
-   cd customer-behavior-analysis
-   ```
-3. Install dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run Jupyter Notebook for EDA and data cleaning
-5. Load cleaned dataset into your SQL database
-6. Execute SQL queries from the `/sql` folder
-7. Open the Power BI dashboard (`.pbix`)
-8. Review the report and Gamma presentation
-
 ---
 
 ## Project Structure
